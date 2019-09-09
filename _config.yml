@@ -31,7 +31,7 @@ twitter_username: JosedelaIglesi5
 github_username:  ph0b0ss
 
 # Build settings
-theme: jekyll-theme-leap-day
+theme: minima
 plugins:
   - jekyll-feed
 
